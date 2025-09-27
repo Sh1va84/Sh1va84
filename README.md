@@ -1,74 +1,97 @@
 # 👋 Hi there, I'm Shiva
 
-My name is **Shiva**, also known as **Full-Stack AI Developer**. I'm an IT professional and passionate developer on a mission to share knowledge and make working with AI and web technologies enjoyable, engaging, and for FREE!
+My name is **Shiva**, a passionate **B.Tech student** and **aspiring Full-Stack Developer**. I'm currently in my final year at NIT Hamirpur, focusing on building innovative AI-powered applications and sharing my learning journey with the developer community!
 
-## 🚀 Stay Connected
+## 🎓 About Me
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+**Final Year B.Tech Student** | Electronics & Communication Engineering  
+**National Institute of Technology, Hamirpur** | CGPA: 8.42/10.00  
+**Graduating:** June 2026 🎉
 
-[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
+I'm passionate about **Full-Stack Development** and **AI/ML**, constantly learning and building projects that solve real problems. My mission is to grow as a developer while contributing to the open-source community!
+
+## 🚀 Connect With Me
+
+Let's connect and grow together in this amazing tech journey!
+
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiva84)
 [![PORTFOLIO](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK)
 [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiva91official@gmail.com)
 
-All my projects and their materials are completely free, and all I ask is your support through starring, following, and engaging with my repositories! Your engagement means the world to me and helps the community!
+I'm actively looking for **internship opportunities** and **entry-level positions** in Full-Stack Development and AI/ML! Feel free to reach out if you'd like to collaborate or have any opportunities.
 
-## 💻 Featured Projects:
+## 💻 My Projects:
 
-### ✅ **SEGFAULT - Online Coding Platform**: [Live Demo](YOUR_LIVE_LINK) | [Download Code](YOUR_GITHUB_REPO) | [Documentation](YOUR_DOCS_LINK)
+### ✅ **SEGFAULT - Online Coding Platform**: [GitHub Repo](YOUR_GITHUB_REPO) | [Live Demo](YOUR_LIVE_LINK) 
+*My biggest project - A full-stack coding platform with AI assistance*
 
-### ✅ **AI Development Agent**: [GitHub Repo](YOUR_GITHUB_REPO) | [Documentation](YOUR_DOCS_LINK) 
+### ✅ **AI Development Agent**: [GitHub Repo](YOUR_GITHUB_REPO)
+*Autonomous AI agent that generates websites from natural language*
 
-### ✅ **Terminal RAG Engine**: [GitHub Repo](YOUR_GITHUB_REPO) | [Documentation](YOUR_DOCS_LINK)
+### ✅ **Terminal RAG Engine**: [GitHub Repo](YOUR_GITHUB_REPO)
+*Command-line tool for querying PDF documents using RAG architecture*
 
-### ✅ **Video Insight AI**: [GitHub Repo](YOUR_GITHUB_REPO) | [Documentation](YOUR_DOCS_LINK)
+### ✅ **Video Insight AI**: [GitHub Repo](YOUR_GITHUB_REPO)
+*RAG pipeline for intelligent YouTube video content analysis*
 
 ---
 
-## 📊 Profile Stats
+## 📊 GitHub Stats
 
-### Shiva's GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva84&show_icons=true&theme=dark)
 
-**📈 Total Contributions:** 41+ in the last year  
-**🔥 Total Commits:** 50+ commits  
-**📂 Public Repositories:** 6+  
-**⭐ GitHub Stars Earned:** Growing daily!
+**📈 Contributions:** 41+ in the last year  
+**📂 Active Projects:** 6+ repositories  
+**⭐ Problem Solving:** 500+ questions solved on LeetCode & GeeksforGeeks
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva84&layout=compact&theme=dark)
 
-**🚀 JavaScript:** 45.2%  
-**⚡ C++:** 35.8%  
-**🐍 Python:** 15.3%  
-**🎨 HTML/CSS:** 3.7%
+---
+
+## 🛠️ Technical Skills I'm Learning & Using
+
+**Programming Languages:** C++, JavaScript  
+**AI/ML Technologies:** LangChain.js, RAG Architecture, Google Gemini API, Vector Search  
+**Backend Development:** Node.js, Express.js, JWT Authentication, Redis  
+**Frontend Development:** React.js, Redux Toolkit  
+**Databases:** MongoDB, MySQL, Supabase, Pinecone  
+**Developer Tools:** Git, Postman, Docker, Cloudinary  
+
+**📚 Currently Learning:** Advanced System Design, Microservices, Cloud Technologies  
+**🎯 Strong Foundation:** Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
 
 ---
 
-## 🛠️ Technical Skills
+## 🏆 Achievements & Highlights
 
-**Languages:** C++, JavaScript, Python  
-**AI/ML:** LangChain.js, RAG Architecture, Vector Search, Google Gemini API  
-**Backend:** Node.js, Express.js, JWT, Redis  
-**Frontend:** React.js, Redux Toolkit  
-**Databases:** Supabase, MongoDB, MySQL, Pinecone  
-**Tools:** Git, Docker, Postman, Cloudinary  
-
-**🎯 Problem Solving:** 500+ problems solved on LeetCode, GeeksforGeeks  
-**🎓 Education:** NIT Hamirpur - Electronics & Communication Engineering (CGPA: 8.42)
+- 🚀 Built 4+ full-stack applications with modern tech stack
+- ⚡ Achieved 40% performance improvement through database optimization
+- 🤖 Created AI agent with 95% success rate on complex tasks
+- 📱 Developed real-time chat interfaces with sub-100ms response time
+- 🎓 Maintaining 8.42 CGPA while working on side projects
+- 💪 Solved 500+ coding problems across various platforms
 
 ---
 
-## 🏆 Achievements
+## 🌱 What I'm Looking For
 
-- 🚀 Built 4+ full-stack AI applications from scratch
-- ⚡ Optimized database performance by 40% using advanced indexing
-- 🤖 Created autonomous AI agent with 95% success rate
-- 📱 Developed real-time applications with sub-100ms response time
-- 🎯 Active contributor to open-source community
+**🔍 Seeking Opportunities:**
+- Software Development Internships
+- Full-Stack Developer Roles
+- AI/ML Engineering Positions
+- Open Source Contributions
+- Collaborative Projects
+
+**💡 Always Open To:**
+- Learning new technologies
+- Mentorship and guidance
+- Networking with fellow developers
+- Contributing to impactful projects
 
 ---
 
-Hey friends — I'm Shiva. I'm an IT professional and developer. My mission is to share the knowledge I've gained over the years and make working with modern technologies fun and accessible for everyone!
+**Final Year B.Tech Student at NIT Hamirpur** passionate about building innovative solutions and constantly learning. Ready to contribute, grow, and make an impact in the tech industry!
 
-**🌟 Let's build something amazing together!**
+**🌟 Let's connect and build something amazing together!**
