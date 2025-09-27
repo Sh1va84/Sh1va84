@@ -23,7 +23,7 @@ I'm actively looking for **internship opportunities** and **entry-level position
 
 ## 💻 My Projects:
 
-### ✅ **SEGFAULT - Online Coding Platform**: [GitHub Repo](https://github.com/Sh1va84/SegFault) | [Live Demo](https://segfault-coding-platform.vercel.app/) 
+### ✅ **SEGFAULT - Online Coding Platform**: [GitHub Repo](https://github.com/Sh1va84/SegFault) | [Live Demo](https://segfault-frontend-1.netlify.app) 
 *My biggest project - A full-stack coding platform with AI assistance*
 
 ### ✅ **AI Development Agent**: [GitHub Repo](https://github.com/Sh1va84/AI-Development-Agent)
