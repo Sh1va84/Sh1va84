@@ -14,39 +14,39 @@ I'm passionate about **Full-Stack Development** and **AI/ML**, constantly learni
 
 Let's connect and grow together in this amazing tech journey!
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiva84)
-[![PORTFOLIO](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-619851375/)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sh1va84)
+[![PORTFOLIO](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://terminal-portfolio-lac.vercel.app/)
 [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiva91official@gmail.com)
 
 I'm actively looking for **internship opportunities** and **entry-level positions** in Full-Stack Development and AI/ML! Feel free to reach out if you'd like to collaborate or have any opportunities.
 
 ## 💻 My Projects:
 
-### ✅ **SEGFAULT - Online Coding Platform**: [GitHub Repo](YOUR_GITHUB_REPO) | [Live Demo](YOUR_LIVE_LINK) 
+### ✅ **SEGFAULT - Online Coding Platform**: [GitHub Repo](https://github.com/Sh1va84/SegFault) | [Live Demo](https://segfault-coding-platform.vercel.app/) 
 *My biggest project - A full-stack coding platform with AI assistance*
 
-### ✅ **AI Development Agent**: [GitHub Repo](YOUR_GITHUB_REPO)
+### ✅ **AI Development Agent**: [GitHub Repo](https://github.com/Sh1va84/AI-Development-Agent)
 *Autonomous AI agent that generates websites from natural language*
 
-### ✅ **Terminal RAG Engine**: [GitHub Repo](YOUR_GITHUB_REPO)
+### ✅ **Terminal RAG Engine**: [GitHub Repo](https://github.com/Sh1va84/Terminal-RAG-Engine-for-Document-Q-A)
 *Command-line tool for querying PDF documents using RAG architecture*
 
-### ✅ **Video Insight AI**: [GitHub Repo](YOUR_GITHUB_REPO)
+### ✅ **Video Insight AI**: [GitHub Repo](https://github.com/Sh1va84/CHAT-WITH-YOUTUBE)
 *RAG pipeline for intelligent YouTube video content analysis*
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiva84&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sh1va84&show_icons=true&theme=dark)
 
 **📈 Contributions:** 41+ in the last year  
-**📂 Active Projects:** 6+ repositories  
+**📂 Active Projects:** 4+ major repositories  
 **⭐ Problem Solving:** 500+ questions solved on LeetCode & GeeksforGeeks
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva84&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1va84&layout=compact&theme=dark)
 
 ---
 
