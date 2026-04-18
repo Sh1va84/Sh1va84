@@ -29,6 +29,9 @@ I'm actively looking for **internship opportunities** and **entry-level position
 ### ✅ **SEGFAULT - Online Coding Platform**: [GitHub Repo](https://github.com/Sh1va84/SegFault) | [Live Demo](https://segfault-frontend-1.netlify.app) 
 *Full-stack coding platform with AI assistance and multi-language code execution*
 
+### ✅ **PROPEL – AI-Powered Property Management Platform**: [GitHub Repo](https://github.com/Sh1va84/PROPEL-V1) | [Live Demo](https://propel-v1-pebl.vercel.app/)
+*Full-stack platform connecting property agents with contractors featuring escrow workflow and AI-powered job descriptions*
+
 ### ✅ **AI Development Agent**: [GitHub Repo](https://github.com/Sh1va84/AI-Development-Agent)
 *Autonomous AI agent that generates websites from natural language*
 
@@ -45,7 +48,7 @@ I'm actively looking for **internship opportunities** and **entry-level position
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sh1va84&show_icons=true&theme=dark)
 
 **📈 Contributions:** 132+ in the last year  
-**📂 Active Projects:** 5+ major repositories  
+**📂 Active Projects:** 6+ major repositories  
 **⭐ Problem Solving:** 500+ questions solved on LeetCode & GeeksforGeeks
 
 ### Most Used Languages
