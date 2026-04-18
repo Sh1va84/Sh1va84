@@ -23,8 +23,11 @@ I'm actively looking for **internship opportunities** and **entry-level position
 
 ## 💻 My Projects:
 
+### ✅ **NEXTFLOW – AI Visual Workflow Automation Platform**: [GitHub Repo](https://github.com/Sh1va84/NEXTFLOW) | [Live Demo](https://nextflow-chi-eight.vercel.app/)
+*Production-grade visual workflow engine with DAG-based execution and distributed async task processing*
+
 ### ✅ **SEGFAULT - Online Coding Platform**: [GitHub Repo](https://github.com/Sh1va84/SegFault) | [Live Demo](https://segfault-frontend-1.netlify.app) 
-*My biggest project - A full-stack coding platform with AI assistance*
+*Full-stack coding platform with AI assistance and multi-language code execution*
 
 ### ✅ **AI Development Agent**: [GitHub Repo](https://github.com/Sh1va84/AI-Development-Agent)
 *Autonomous AI agent that generates websites from natural language*
@@ -41,8 +44,8 @@ I'm actively looking for **internship opportunities** and **entry-level position
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sh1va84&show_icons=true&theme=dark)
 
-**📈 Contributions:** 41+ in the last year  
-**📂 Active Projects:** 4+ major repositories  
+**📈 Contributions:** 132+ in the last year  
+**📂 Active Projects:** 5+ major repositories  
 **⭐ Problem Solving:** 500+ questions solved on LeetCode & GeeksforGeeks
 
 ### Most Used Languages
@@ -52,12 +55,12 @@ I'm actively looking for **internship opportunities** and **entry-level position
 
 ## 🛠️ Technical Skills I'm Learning & Using
 
-**Programming Languages:** C++, JavaScript  
-**AI/ML Technologies:** LangChain.js, RAG Architecture, Google Gemini API, Vector Search  
-**Backend Development:** Node.js, Express.js, JWT Authentication, Redis  
-**Frontend Development:** React.js, Redux Toolkit  
-**Databases:** MongoDB, MySQL, Supabase, Pinecone  
-**Developer Tools:** Git, Postman, Docker, Cloudinary  
+**Programming Languages:** C++, JavaScript, TypeScript  
+**AI/ML Technologies:** LangChain.js, RAG Architecture, Google Gemini API, Vector Search, Function Calling  
+**Backend Development:** Node.js, Express.js, Prisma, JWT Authentication, Redis, Trigger.dev v3  
+**Frontend Development:** React.js, Next.js, Redux Toolkit, Zustand, React Flow  
+**Databases:** PostgreSQL, MongoDB, Pinecone (Vector DB), Redis  
+**Developer Tools:** Git, Postman, Docker, Cloudinary, Linux/Shell  
 
 **📚 Currently Learning:** Advanced System Design, Microservices, Cloud Technologies  
 **🎯 Strong Foundation:** Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
@@ -66,10 +69,10 @@ I'm actively looking for **internship opportunities** and **entry-level position
 
 ## 🏆 Achievements & Highlights
 
-- 🚀 Built 4+ full-stack applications with modern tech stack
-- ⚡ Achieved 40% performance improvement through database optimization
-- 🤖 Created AI agent with 95% success rate on complex tasks
-- 📱 Developed real-time chat interfaces with sub-100ms response time
+- 🚀 Built 5+ full-stack applications with modern tech stack
+- ⚡ Architected distributed async task execution using Trigger.dev v3 for long-running AI workflows
+- 🤖 Built autonomous AI agent with PLAN → EXECUTE → VALIDATE reasoning loop
+- 🔁 Implemented DAG-based topological execution with parallel node processing in NextFlow
 - 🎓 Maintaining 8.42 CGPA while working on side projects
 - 💪 Solved 500+ coding problems across various platforms
 
