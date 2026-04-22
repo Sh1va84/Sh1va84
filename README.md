@@ -32,7 +32,7 @@ I'm actively looking for **internship opportunities** and **entry-level position
 ### ✅ **PROPEL – AI-Powered Property Management Platform**: [GitHub Repo](https://github.com/Sh1va84/PROPEL-V1) | [Live Demo](https://propel-v1-pebl.vercel.app/)
 *Full-stack platform connecting property agents with contractors featuring escrow workflow and AI-powered job descriptions*
 
-### ✅ **AI Development Agent**: [GitHub Repo](https://github.com/Sh1va84/AI-Development-Agent)
+### ✅ **DAEMON**: [GitHub Repo](https://github.com/Sh1va84/daemon)
 *Autonomous AI agent that generates websites from natural language*
 
 ### ✅ **Terminal RAG Engine**: [GitHub Repo](https://github.com/Sh1va84/Terminal-RAG-Engine-for-Document-Q-A)
